@@ -1,0 +1,3 @@
+/home/armun/Documents/WX Projects/My Projects/SepClass/CGPA/CMakeFiles/rebuild_cache.dir
+/home/armun/Documents/WX Projects/My Projects/SepClass/CGPA/CMakeFiles/edit_cache.dir
+/home/armun/Documents/WX Projects/My Projects/SepClass/CGPA/CMakeFiles/cgpaCalc.dir
