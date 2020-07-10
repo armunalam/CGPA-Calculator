@@ -1,10 +1,10 @@
 #include "Frame.h"
 
 Frame::Frame(wxString title, wxSize frameSize): wxFrame(nullptr, 
-                                                 wxID_ANY,
-                                                 title,
-                                                 wxDefaultPosition,
-                                                 frameSize)
+                                                        wxID_ANY,
+                                                        title,
+                                                        wxDefaultPosition,
+                                                        frameSize)
 {
     panel = new wxScrolledWindow(this, wxID_ANY, wxDefaultPosition, wxDefaultSize, wxVSCROLL);
 
